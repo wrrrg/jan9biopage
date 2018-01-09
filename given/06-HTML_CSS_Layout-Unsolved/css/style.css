@@ -1,6 +1,6 @@
 header {
-  background-color: black;
-  color: white;
+  background-color: #333333;
+  color: #EEEEEE;
   text-align: center;
 }
 
@@ -10,11 +10,12 @@ h1 {
 }
 
 body {
-  background: #e4ffaa;
+  background: #EFEEE7;
+  color: #333333;
 }
 
 section a {
-  color: red;
+  color: #EE415A;
 }
 .p-bio {
   display: inline-block;
