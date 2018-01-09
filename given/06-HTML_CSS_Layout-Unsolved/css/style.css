@@ -1,0 +1,39 @@
+header {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+    font-weight: 500;
+    padding: 10px;
+}
+
+body {
+  background: #e4ffaa;
+}
+
+section a {
+  color: red;
+}
+.p-bio {
+  display: inline-block;
+  padding: 5px;
+  text-align: center;
+}
+
+.img-bio {
+  float: left;
+  padding: 5px;
+}
+
+.about {
+  float: left;
+  width: 60%;
+}
+.contact {
+    float: left;
+    width: 40%;
+    display: inline;
+
+}
